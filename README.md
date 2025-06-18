@@ -1,1 +1,2 @@
 # Heart_Attack_Classification_Model
+# build a machine learning model to predict the risk of heart attacks in individuals aged 18-35 using health and lifestyle data. The project involves data preprocessing, exploratory data analysis (EDA), feature selection, and applying classification algorithms like Logistic Regression, Decision Tree, and Random Forest to achieve accurate predictions and identify key risk factors.
